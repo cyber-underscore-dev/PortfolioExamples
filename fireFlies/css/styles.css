@@ -1,0 +1,20 @@
+body {
+    background: transparent url(../fireFlyImages/Silence_Forest_960x600.jpg) no-repeat 50% 0;
+}
+
+.wrapper {
+    width: 960px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.fireFlies {
+    
+    border: 1px dotted #888;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    
+    
+}
